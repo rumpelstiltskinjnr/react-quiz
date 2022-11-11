@@ -2,7 +2,7 @@
 
 ###[Live Site] (https://react-millionare-clone.netlify.app)
 
-![Quiz Application] (https://www.linkpicture.com/q/WhoWants.jpg)
+![WhoWants](https://user-images.githubusercontent.com/116870256/201260413-1a7c81ed-74ae-4c38-abec-d67776824133.JPG)
 
 ## This is a clone on Who Wants To Be A millionaire
 
