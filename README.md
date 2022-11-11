@@ -1,6 +1,6 @@
 # Who Wants To Be A Millionaire Clone
 
-###[Live Site] (https://react-millionare-clone.netlify.app)
+[Live Site](https://react-millionare-clone.netlify.app)
 
 ![WhoWants](https://user-images.githubusercontent.com/116870256/201260413-1a7c81ed-74ae-4c38-abec-d67776824133.JPG)
 
